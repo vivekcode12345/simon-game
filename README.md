@@ -3,6 +3,7 @@
 
 A fun and interactive Simon Says Game built using HTML, CSS, and JavaScript.
 The game tests your memory by generating random color sequences that you must repeat correctly to level up.
+___
 
 ✨ Features
 
@@ -17,6 +18,7 @@ The game tests your memory by generating random color sequences that you must re
 🚨 Game Over screen with restart option
 
 💻 Simple, responsive, and beginner-friendly project
+___
 
 
 🚀 Technologies Used
@@ -26,6 +28,7 @@ HTML5 – game structure
 CSS3 – styling, button colors, animations
 
 JavaScript (Vanilla JS) – game logic & interactivity
+___
 
 📂 Project Structure
 simon-says-game/
@@ -37,6 +40,7 @@ simon-says-game/
 │── simon.js        # Game logic (sequence generation, checking, reset)
 
 │── README.md       # Documentation
+___
 
 
 
@@ -54,6 +58,7 @@ If correct → you move to the next level (sequence increases).
 If wrong → Game Over with your final score displayed.
 
 Press any key again to restart.
+___
 
 
 
@@ -65,6 +70,7 @@ Clone/download this project.
 Open index.html in your browser.
 
 Play and enjoy 🎉
+___
 
 
 

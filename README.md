@@ -1,80 +1,74 @@
-# simon-game
-🎮 Simon Says Game
 
-A fun and interactive Simon Says Game built using HTML, CSS, and JavaScript.
-The game tests your memory by generating random color sequences that you must repeat correctly to level up.
-___
+# 🎮 Simon Game
 
-✨ Features
+A fun and interactive **Simon Says memory game** built using **HTML, CSS, and JavaScript**.  
+The game challenges the player to remember and repeat an ever-growing sequence of colors.
 
-🟩 Four interactive colored buttons (Red, Yellow, Green, Purple)
+This project demonstrates strong fundamentals in **DOM manipulation, event handling, and game logic** using vanilla JavaScript.
 
-🎵 Sequence memory-based gameplay
+🔗 **Live Demo**: https://vivekcode12345.github.io/simon-game/
 
-⚡ Flash animations for both system & user inputs
+---
 
-📊 Score tracking by levels
+## 🖼️ Screenshots
 
-🚨 Game Over screen with restart option
+### Game Start
+![Game Start](screenshots/start.png)
 
-💻 Simple, responsive, and beginner-friendly project
-___
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
 
+### Game Over
+![Game Over](screenshots/gameover.png)
 
-🚀 Technologies Used
+> Add screenshots inside a `screenshots` folder with the same file names.
 
-HTML5 – game structure
+---
 
-CSS3 – styling, button colors, animations
+## 🚀 Features
 
-JavaScript (Vanilla JS) – game logic & interactivity
-___
+- Four interactive colored buttons
+- Memory-based sequence gameplay
+- Visual flash animation for system and user inputs
+- Level-based progression system
+- Game over detection on incorrect input
+- Restart game using keyboard input
+- Clean and responsive user interface
 
-📂 Project Structure
-simon-says-game/
+---
 
-│── index.html      # Main HTML file
+## 🛠️ Tech Stack
 
-│── simon.css       # Styling (buttons, layout, animations)
+- **HTML5** – Structure and layout
+- **CSS3** – Styling and animations
+- **JavaScript (Vanilla)** – Game logic and interactivity
 
-│── simon.js        # Game logic (sequence generation, checking, reset)
+---
 
-│── README.md       # Documentation
-___
+## 📂 Project Structure
 
+---
 
+## 🎯 How to Play
 
-🎯 How to Play
+1. Press any key to start the game
+2. Observe the color sequence displayed by the game
+3. Repeat the sequence by clicking the buttons in the same order
+4. Each level adds a new color to the sequence
+5. A wrong input ends the game
+6. Press any key to restart
 
+---
 
-Press any key to start the game.
-
-Watch the button flashes – remember the sequence.
-
-Repeat the sequence by clicking the buttons in the same order.
-
-If correct → you move to the next level (sequence increases).
-
-If wrong → Game Over with your final score displayed.
-
-Press any key again to restart.
-___
-
-
-
-
-🛠️ Setup Instructions
-
-Clone/download this project.
-
-Open index.html in your browser.
-
-Play and enjoy 🎉
-___
-
-
-
-📧 Author
+👨‍💻 Author
 
 Vivek Verma
-An interactive front-end project using HTML, CSS, and JavaScript to create a memory-based Simon Says game.
+B.Tech Student
+GitHub: https://github.com/vivekcode12345
+
+## ⚙️ Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vivekcode12345/simon-game.git
+

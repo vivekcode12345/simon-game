@@ -15,9 +15,6 @@ This project demonstrates strong fundamentals in **DOM manipulation, event handl
 ### Game Start
 ![Game Start](screenshots/start.png)
 
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
-
 ### Game Over
 ![Game Over](screenshots/gameover.png)
 

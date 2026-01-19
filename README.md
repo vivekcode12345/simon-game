@@ -18,8 +18,6 @@ This project demonstrates strong fundamentals in **DOM manipulation, event handl
 ### Game Over
 ![Game Over](screenshots/gameover.png)
 
-> Add screenshots inside a `screenshots` folder with the same file names.
-
 ---
 
 ## 🚀 Features
@@ -57,15 +55,19 @@ This project demonstrates strong fundamentals in **DOM manipulation, event handl
 
 ---
 
-👨‍💻 Author
-
-Vivek Verma
-B.Tech Student
-GitHub: https://github.com/vivekcode12345
 
 ## ⚙️ Installation and Setup
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/vivekcode12345/simon-game.git
+2. Navigate to the project directory:
+   cd simon-game
+3. Open index.html in any modern web browser   
+
+👨‍💻 Author
+
+Vivek Verma
+B.Tech Student
+GitHub: https://github.com/vivekcode12345
 
